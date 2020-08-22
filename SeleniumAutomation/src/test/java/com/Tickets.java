@@ -40,19 +40,19 @@ public class Tickets {
 		
 	public void precioEstudiante()
 	{
-		System.out.println("El costo del ticket de Estudiante es: $" + precioEstudiante);
+		System.out.println("El costo del ticket de Estudiante es: $$$$$$ " + precioEstudiante);
 	}
 	
 	
 	public void verificarcostoTicket()
 	{
 		if(estudiante==true) {
-		System.out.println("Eres un Estudiante, y el precio de tu ticket es: $" + precioEstudiante);
+		System.out.println("Eres un Estudiante, y el precio de tu ticket es: $ " + precioEstudiante);
 		}else if(edad>18)
 		 {
-			System.out.println("Eres un ADULTO, y el precio de tu ticket es: $" + precioAdulto);
+			System.out.println("Eres un ADULTO, y el precio de tu ticket es: $ " + precioAdulto);
 		 }else {
-			 System.out.println("Eres un NIÑO, y el precio de tu ticket es: $" + precioNino);
+			 System.out.println("Eres un NIÑO, y el precio de tu ticket es: $ " + precioNino);
 		       }
 		
 	}

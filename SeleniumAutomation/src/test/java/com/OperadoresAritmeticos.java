@@ -25,15 +25,15 @@ public class OperadoresAritmeticos {
 		 *
 		 */
 		
-		int num1=3;
-		int num2=3;
-		
-		if(num1 == num2)
-		{
-			System.out.println("los numeros son iguales");
-		}else 
-			System.out.println("los numeros NO son iguales");
-		
+//		int num1=3;
+//		int num2=3;
+//		
+//		if(num1 == num2)
+//		{
+//			System.out.println("los numeros son iguales");
+//		}else 
+//			System.out.println("los numeros NO son iguales");
+//		
 		
 	}
 
